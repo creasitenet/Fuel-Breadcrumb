@@ -88,7 +88,7 @@ class Breadcrumb {
 
 			$link .= '/'.$segment;
 
-			if(! in_array($segment, $ignored)))
+			if(! in_array($segment, $ignored))
 			{
 				if ($use_lang === true)
 				{
